@@ -1,0 +1,6 @@
+com\Myproject\services\core\models\HelloWorldModel.class
+com\Myproject\services\core\filters\LoggingFilter.class
+com\Myproject\services\core\listeners\SimpleResourceListener.class
+com\Myproject\services\core\schedulers\SimpleScheduledTask.class
+com\Myproject\services\core\servlets\SimpleServlet.class
+com\Myproject\services\core\package-info.class
